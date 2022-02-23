@@ -1,5 +1,3 @@
-import "./assets/styles/main.css";
-
 const adviceId = document.querySelector(".advice-id");
 const advice = document.querySelector(".advice");
 
